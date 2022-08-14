@@ -58,26 +58,46 @@
 }
 
 
+class Islem
+{
+    public int Toplama(int x, int y, int z)
+    {
+        Console.WriteLine("x: " + x);
+        Console.WriteLine("y: " + y);
+        Console.WriteLine("z: " + z);
+        return x + y + z;
+    }
+}
+
 class Program
 {
     static void Main(string[] args)
     {
-        var opel = new Araba();
-        opel.Marka = "Opel";
-        opel.Model = "Astra";
-        opel.Renk = "Beyaz";
-        opel.Otomatik = true;
+
+        var islem = new Islem();
+
+        // Console.WriteLine(islem.Toplama(10, 20, 30));
+        Console.WriteLine(islem.Toplama(y: 20, z: 30, x: 10));//bu şekilde isimlendirme yaptıktan sonra gönderdiğimiz parametrelerin sırasının bi önemi kalmıyor.
+
+
+
+
+        // var opel = new Araba();
+        // opel.Marka = "Opel";
+        // opel.Model = "Astra";
+        // opel.Renk = "Beyaz";
+        // opel.Otomatik = true;
 
         // opel.Start();
         // opel.Hizlan();
         // opel.Yavasla();
         // opel.Menu();
 
-        var mazda = new Araba();
-        mazda.Marka = "Mazda";
-        mazda.Model = "CX3";
-        mazda.Renk = "Kırmızı";
-        mazda.Otomatik = true;
-        mazda.Menu();
+        // var mazda = new Araba();
+        // mazda.Marka = "Mazda";
+        // mazda.Model = "CX3";
+        // mazda.Renk = "Kırmızı";
+        // mazda.Otomatik = true;
+        // mazda.Menu();
     }
 }
