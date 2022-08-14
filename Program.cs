@@ -60,12 +60,17 @@
 
 class Islem
 {
-    public int Toplama(int x, int y, int z)
+    // public int Toplama(int x, int y, int z=0)
+    // {
+    //     Console.WriteLine("x: " + x);
+    //     Console.WriteLine("y: " + y);
+    //     Console.WriteLine("z: " + z);
+    //     return x + y + z;
+    // }
+
+    public int Toplama(params int[] numbers)
     {
-        Console.WriteLine("x: " + x);
-        Console.WriteLine("y: " + y);
-        Console.WriteLine("z: " + z);
-        return x + y + z;
+        return numbers.Sum();
     }
 }
 
@@ -77,7 +82,8 @@ class Program
         var islem = new Islem();
 
         // Console.WriteLine(islem.Toplama(10, 20, 30));
-        Console.WriteLine(islem.Toplama(y: 20, z: 30, x: 10));//bu şekilde isimlendirme yaptıktan sonra gönderdiğimiz parametrelerin sırasının bi önemi kalmıyor.
+        // Console.WriteLine(islem.Toplama(y: 20, z: 30, x: 10));//bu şekilde isimlendirme yaptıktan sonra gönderdiğimiz parametrelerin sırasının bi önemi kalmıyor.
+        Console.WriteLine(islem.Toplama(20, 30, 10));
 
 
 
