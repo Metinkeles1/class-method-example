@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\metin\\Desktop\\Programlama Dilleri\\Web Geliştirme Eğitimi\\Javascript\\class-method-example\\class-method-example.csproj": {}
+    "c:\\Users\\metin\\Desktop\\Programlama Dilleri\\Web-Gelistirme Egitimi\\Javascript\\class-method-example\\class-method-example.csproj": {}
   },
   "projects": {
-    "C:\\Users\\metin\\Desktop\\Programlama Dilleri\\Web Geliştirme Eğitimi\\Javascript\\class-method-example\\class-method-example.csproj": {
+    "c:\\Users\\metin\\Desktop\\Programlama Dilleri\\Web-Gelistirme Egitimi\\Javascript\\class-method-example\\class-method-example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\metin\\Desktop\\Programlama Dilleri\\Web Geliştirme Eğitimi\\Javascript\\class-method-example\\class-method-example.csproj",
+        "projectUniqueName": "c:\\Users\\metin\\Desktop\\Programlama Dilleri\\Web-Gelistirme Egitimi\\Javascript\\class-method-example\\class-method-example.csproj",
         "projectName": "class-method-example",
-        "projectPath": "C:\\Users\\metin\\Desktop\\Programlama Dilleri\\Web Geliştirme Eğitimi\\Javascript\\class-method-example\\class-method-example.csproj",
+        "projectPath": "c:\\Users\\metin\\Desktop\\Programlama Dilleri\\Web-Gelistirme Egitimi\\Javascript\\class-method-example\\class-method-example.csproj",
         "packagesPath": "C:\\Users\\metin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\metin\\Desktop\\Programlama Dilleri\\Web Geliştirme Eğitimi\\Javascript\\class-method-example\\obj\\",
+        "outputPath": "c:\\Users\\metin\\Desktop\\Programlama Dilleri\\Web-Gelistirme Egitimi\\Javascript\\class-method-example\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\metin\\AppData\\Roaming\\NuGet\\NuGet.Config",
