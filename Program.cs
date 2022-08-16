@@ -68,9 +68,15 @@ class Islem
     //     return x + y + z;
     // }
 
-    public int Toplama(params int[] numbers)
+    //*aşırı yüklenmiş methodlar aynı işlevi gören ve birden fazla parametre alan fonksiyonlar.
+    public int Toplama(int a, int b)
     {
-        return numbers.Sum();
+        return a + b;
+    }
+
+    public int Toplama(int a, int b, int c)
+    {
+        return a + b + c;
     }
 }
 

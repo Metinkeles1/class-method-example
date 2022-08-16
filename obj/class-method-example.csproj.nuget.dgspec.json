@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\metin\\Desktop\\Programlama Dilleri\\Web-Gelistirme Egitimi\\Javascript\\class-method-example\\class-method-example.csproj": {}
+    "c:\\Users\\metin\\Desktop\\Programlama Dilleri\\Web-Gelistirme Egitimi\\Javascript\\c#-asiri-yuklenmis-methotlar\\class-method-example.csproj": {}
   },
   "projects": {
-    "c:\\Users\\metin\\Desktop\\Programlama Dilleri\\Web-Gelistirme Egitimi\\Javascript\\class-method-example\\class-method-example.csproj": {
+    "c:\\Users\\metin\\Desktop\\Programlama Dilleri\\Web-Gelistirme Egitimi\\Javascript\\c#-asiri-yuklenmis-methotlar\\class-method-example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\metin\\Desktop\\Programlama Dilleri\\Web-Gelistirme Egitimi\\Javascript\\class-method-example\\class-method-example.csproj",
+        "projectUniqueName": "c:\\Users\\metin\\Desktop\\Programlama Dilleri\\Web-Gelistirme Egitimi\\Javascript\\c#-asiri-yuklenmis-methotlar\\class-method-example.csproj",
         "projectName": "class-method-example",
-        "projectPath": "c:\\Users\\metin\\Desktop\\Programlama Dilleri\\Web-Gelistirme Egitimi\\Javascript\\class-method-example\\class-method-example.csproj",
+        "projectPath": "c:\\Users\\metin\\Desktop\\Programlama Dilleri\\Web-Gelistirme Egitimi\\Javascript\\c#-asiri-yuklenmis-methotlar\\class-method-example.csproj",
         "packagesPath": "C:\\Users\\metin\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\metin\\Desktop\\Programlama Dilleri\\Web-Gelistirme Egitimi\\Javascript\\class-method-example\\obj\\",
+        "outputPath": "c:\\Users\\metin\\Desktop\\Programlama Dilleri\\Web-Gelistirme Egitimi\\Javascript\\c#-asiri-yuklenmis-methotlar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\metin\\AppData\\Roaming\\NuGet\\NuGet.Config",
